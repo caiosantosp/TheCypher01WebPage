@@ -10,9 +10,9 @@ window.onload = function () {
 
     var dict = new Map();
 
-    dict.set("u", "3psyov+*6ぺ")
+    dict.set("u", "3psyov+*6")
     dict.set("a", "99klklcv/.4")
-    dict.set("e", "12qwrtpv+5🎌")
+    dict.set("e", "12qwrtpv+5")
     dict.set("i", "yops/032")
     dict.set("b", "031hjpsd*/.")
     dict.set("n", "9-*fgy*875")
